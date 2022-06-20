@@ -108,6 +108,6 @@ class MyApp extends StatelessWidget {
     infoDialog(
         context: context,
         title: "¡Funciona!",
-        content: "Funciona correctamenteeeeee");
+        content: "Funciona correctamente");
   }
 }
