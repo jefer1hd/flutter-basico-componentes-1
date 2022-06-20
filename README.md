@@ -1,6 +1,6 @@
 # primera_app
 
-A new Flutter project.
+Proyecto básico de componentes en flutter.
 
 ## Getting Started
 
